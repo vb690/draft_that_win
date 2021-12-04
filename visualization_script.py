@@ -17,4 +17,4 @@ sns.catplot(
     sharey=False
 )
 
-plt.savefig('results\\figures\\model_comparison.pdf')
+plt.savefig('results\\figures\\model_comparison.svg')
