@@ -20,7 +20,7 @@ The aim of this project is to compare a series of different model on the task of
 # Results
 
 <p align="center">
-  <img width="600" height="600" src="https://github.com/vb690/draft_that_win/blob/main/results/figures/model_comparison.pdf">
+  <img width="600" height="600" src="https://github.com/vb690/draft_that_win/blob/main/results/figures/model_comparison.svg">
 </p>
 
 
